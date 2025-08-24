@@ -63,7 +63,6 @@ export ORCID_CLIENT_SECRET=xxxxxxxx
 ├─ orcid_harvest_csv.py            # main script
 ├─ requirements.txt                # dependencies
 ├─ README.md                       # this file
-├─ LICENSE                         # MIT by default
 ├─ .gitignore
 └─ examples/
    └─ orcids.csv                   # example input (first column = ORCID)
