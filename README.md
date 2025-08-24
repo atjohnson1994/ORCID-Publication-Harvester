@@ -8,7 +8,7 @@ Tool to retrieve and analyze publications for a list of authors identified by th
 
 ```bash
 # 1) Clone and enter
-git clone https://github.com/your-username/orcid-publication-harvester.git
+git clone https://github.com/atjohnson1994/orcid-publication-harvester.git
 cd orcid-publication-harvester
 
 # 2) Create & activate a virtual environment (recommended)
@@ -55,18 +55,6 @@ Outputs are written to `./output/`:
 export ORCID_CLIENT_ID=APP-XXXXXX
 export ORCID_CLIENT_SECRET=xxxxxxxx
 ```
-
-> Crossref and OpenAlex require **no** API keys.
-
----
-
-## Minimal 300‑char App Description (for ORCID form)
-
-> Tool to retrieve and analyze publications from ORCID iDs. Reads public works data via the ORCID API and optionally enriches it with Crossref and OpenAlex. Used for internal reporting and monitoring research output.
-
-**Homepage URL suggestion:** link this repo (e.g., `https://github.com/your-username/orcid-publication-harvester`).
-
----
 
 ## Repository Structure
 
