@@ -34,3 +34,14 @@ python orcid_harvest_csv.py \
 --client-id $ORCID_CLIENT_ID \
 --client-secret $ORCID_CLIENT_SECRET \
 --with-crossref --with-openalex --with-backfill
+
+
+Outputs are written to ./output/:
+
+Family_Given_<ORCID>.csv per author
+
+all_orcid_publications.csv (combined)
+
+gap_report.csv (coverage vs enrichment)
+
+author_metrics.csv (activity last 12/24 months, citations, OA share)
