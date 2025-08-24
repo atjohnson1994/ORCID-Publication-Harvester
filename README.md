@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 # 4) Prepare your ORCID CSV (first column = ORCID iD)
 cp examples/orcids.csv .
-# edit or replace with your file
+edit or replace with your file
 
 
 # 5) Run (ORCID only)
