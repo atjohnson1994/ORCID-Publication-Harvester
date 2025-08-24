@@ -3,7 +3,7 @@ Tool to retrieve and analyze publications for a list of authors identified by th
 
 # Quick Start
 # 1) Clone and enter
-git clone https://github.com/your-username/orcid-publication-harvester.git
+git clone https://github.com/atjohnson1994/orcid-publication-harvester.git
 cd orcid-publication-harvester
 
 
